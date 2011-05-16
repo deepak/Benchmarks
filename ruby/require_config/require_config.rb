@@ -7,6 +7,11 @@
 # parse the file and set the constant.
 # But the benchmark is order dependent, the first benchmark run is faster
 
+# for a sinatra is there any way put config on the thin config file or
+# passenger config and access it from the app. Better option in case
+# we know that these configs will be read and not lazy read on a
+# action what may happed. eg header which is shown on every page
+
 require 'benchmark'
 
 TIMES = 10_000_00
