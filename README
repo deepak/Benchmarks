@@ -1,0 +1,8 @@
+Random collection of mostly micro benchmarks
+
+The folder structure is 
+   
+   |- <Language >
+   |--- < Benchmark > 
+
+the benchmark result is also committed. For ruby, it is under __END__ Ruby scripts are run as ruby -v <script>, to get the ruby version also

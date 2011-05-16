@@ -1,0 +1,14 @@
+development:
+  website_url: http://qa-core-12.sjc2.webaroo.com:8080
+  auth_url: http://qa-core-12:8080/auth-1/api
+  gateway_api_url: http://qa-core-12:8080/GatewayAPI/rest
+
+local:
+  website_url: http://deepak.smsgupshup.com:8080
+  auth_url: http://deepak.smsgupshup.com:8080/auth-1/api
+  gateway_api_url: http://deepak.smsgupshup.com:8080/GatewayAPI/rest
+
+staging:
+  website_url: http://qa-core-12.sjc2.webaroo.com:8080
+  auth_url: http://qa-core-12:8080/auth-1/api
+  gateway_api_url: http://qa-core-12:8080/GatewayAPI/rest
